@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HlaliMedAmine/azurelens/main/docs/assets/logo.png" alt="AzureLens Logo" width="80" />
+<img src="<img src="https://raw.githubusercontent.com/HlaliMedAmine/azurelens-platform/main/docs/assets/logo.png" alt="AzureLens Logo" width="80" />" alt="AzureLens Logo" width="80" />
 
 # AzureLens
 
@@ -14,7 +14,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Azure](https://img.shields.io/badge/Azure-Ready-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/azurelens?style=social)](https://github.com/YOUR_USERNAME/azurelens)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/azurelens?style=social)](https://github.com/HlaliMedAmine/azurelens-platform/)
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Overview
+## 🌟 Overview
 
 **AzureLens** is an open-source Azure cloud cost optimization platform that automatically detects wasted spending across your Azure infrastructure. It connects securely to your Azure subscription using **read-only credentials**, scans all resources every 24 hours, and surfaces actionable recommendations through a clean, real-time dashboard.
 
@@ -62,9 +62,9 @@
 
 ---
 
-## Features
+## ✨ Features
 
-### Dashboard
+### 🏠 Dashboard
 Real-time cost overview with live data from your Azure subscription.
 
 ![Dashboard](docs/screenshots/dashboard.png)
@@ -78,7 +78,7 @@ Real-time cost overview with live data from your Azure subscription.
 
 ---
 
-### Virtual Machines
+### 💻 Virtual Machines
 Deep analysis of all VMs across your subscription.
 
 ![Virtual Machines](docs/screenshots/virtual-machines.png)
