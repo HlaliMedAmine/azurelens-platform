@@ -1,0 +1,29 @@
+{
+  "name": "azurelens-backend",
+  "version": "1.0.0",
+  "description": "AzureLens — Azure Cost Waste Detection Backend",
+  "main": "index.js",
+  "author": {
+    "name": "HlaliMedAmine",
+    "email": "mohamedamine.hlali@outlook.com",
+    "url": "https://github.com/HlaliMedAmine"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@azure/arm-compute": "^21.0.0",
+    "@azure/arm-network": "^33.0.0",
+    "@azure/arm-resources": "^5.2.0",
+    "@azure/arm-storage": "^18.2.0",
+    "@azure/identity": "^4.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "sql.js": "^1.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
