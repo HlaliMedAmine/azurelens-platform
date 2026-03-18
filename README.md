@@ -28,7 +28,7 @@
 
 ---
 
-[**Live Demo**](https://azurelens-demo.vercel.app) · [**Documentation**](#documentation) · [**Report Bug**](https://github.com/YOUR_USERNAME/azurelens/issues) · [**Request Feature**](https://github.com/YOUR_USERNAME/azurelens/issues)
+[**Documentation**](#documentation) · [**Report Bug**](https://github.com/HlaliMedAmine/azurelens-platform/issues) · [**Request Feature**](https://github.com/HlaliMedAmine/azurelens-platform/issues)
 
 </div>
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **AzureLens** is an open-source Azure cloud cost optimization platform that automatically detects wasted spending across your Azure infrastructure. It connects securely to your Azure subscription using **read-only credentials**, scans all resources every 24 hours, and surfaces actionable recommendations through a clean, real-time dashboard.
 
@@ -68,9 +68,9 @@
 
 ---
 
-## ✨ Features
+## Features
 
-### 🏠 Dashboard
+### Dashboard
 Real-time cost overview with live data from your Azure subscription.
 
 <!-- SCREENSHOT: Main Dashboard -->
@@ -86,7 +86,7 @@ Real-time cost overview with live data from your Azure subscription.
 
 ---
 
-### 💻 Virtual Machines
+### Virtual Machines
 Deep analysis of all VMs across your subscription.
 
 <!-- SCREENSHOT: Virtual Machines page -->
@@ -301,7 +301,7 @@ Azure Subscription
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/azurelens.git
+git clone https://github.com/HlaliMedAmine/azurelens-platform
 cd azurelens
 ```
 
@@ -450,7 +450,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ### Good first issues
 
-Looking for ways to contribute? Check issues tagged [`good first issue`](https://github.com/YOUR_USERNAME/azurelens/issues?q=label%3A%22good+first+issue%22).
+Looking for ways to contribute? Check issues tagged [`good first issue`](https://github.com/HlaliMedAmine/azurelens-platform/issues?q=label%3A%22good+first+issue%22).
 
 ---
 
@@ -468,13 +468,14 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
-## 👤 Author
+## 👨‍💻 About the Author
 
-**Mohamedamine Hlali**
+**Mohamed Amine Hlali**  
+Azure & DevOps Engineer | AKS | Terraform | Cloud Architecture  
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-- Twitter/X: [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE)
+- 🌐 Website: http://mohamedaminehlali.cloud
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-amine-hlali  
+- 🧠 GitHub: https://github.com/HlaliMedAmine  
 
 ---
 
