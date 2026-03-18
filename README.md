@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/azurelens/main/docs/assets/logo.png" alt="AzureLens Logo" width="80" />
+<img src="https://raw.githubusercontent.com/HlaliMedAmine/azurelens/main/docs/assets/logo.png" alt="AzureLens Logo" width="80" />
 
 # AzureLens
 
@@ -18,13 +18,7 @@
 
 ---
 
-<!-- DEMO GIF — Replace with your actual recording -->
-<!-- Recommended: Use a tool like LICEcap or ScreenToGif to record a 30-60s walkthrough -->
-<!-- Ideal size: 1200x675px, under 5MB -->
-
-![AzureLens Demo](https://raw.githubusercontent.com/YOUR_USERNAME/azurelens/main/docs/assets/demo.gif)
-
-*↑ Replace this with your actual demo GIF showing the dashboard in action*
+![AzureLens Demo](docs/assets/demo.gif)
 
 ---
 
@@ -73,9 +67,7 @@
 ### Dashboard
 Real-time cost overview with live data from your Azure subscription.
 
-<!-- SCREENSHOT: Main Dashboard -->
-> 📸 **Screenshot placeholder** — `docs/screenshots/dashboard.png`
-> *Show: KPI cards, Cost & Waste trend chart, Top waste recommendations table, AKS overview card*
+![Dashboard](docs/screenshots/dashboard.png)
 
 - **4 KPI Cards**: Total Monthly Spend · Detected Waste · Resources Scanned · Potential Yearly Savings
 - **Cost & Waste Trend**: Real chart built from scan history — grows richer over time
@@ -89,9 +81,7 @@ Real-time cost overview with live data from your Azure subscription.
 ### Virtual Machines
 Deep analysis of all VMs across your subscription.
 
-<!-- SCREENSHOT: Virtual Machines page -->
-> 📸 **Screenshot placeholder** — `docs/screenshots/virtual-machines.png`
-> *Show: VM table with deallocated status, cost per VM, Idle badges*
+![Virtual Machines](docs/screenshots/virtual-machines.png)
 
 - Detects **deallocated** and **stopped** VMs with idle duration
 - Cost estimation per VM based on Azure pricing tiers
@@ -103,9 +93,7 @@ Deep analysis of all VMs across your subscription.
 ### 💾 Disks & Storage
 Find every orphaned managed disk wasting your budget.
 
-<!-- SCREENSHOT: Disks & Storage page -->
-> 📸 **Screenshot placeholder** — `docs/screenshots/disks-storage.png`
-> *Show: Disk table with attached/unattached status, size, cost*
+![Disks & Storage](docs/screenshots/disks-storage.png)
 
 - Lists all managed disks with attachment status
 - Flags unattached disks with monthly cost
@@ -117,9 +105,7 @@ Find every orphaned managed disk wasting your budget.
 ### 🌐 Networking
 Identify unused network resources.
 
-<!-- SCREENSHOT: Networking page -->
-> 📸 **Screenshot placeholder** — `docs/screenshots/networking.png`
-> *Show: Public IPs table, In Use vs Unused status*
+![Networking](docs/screenshots/networking.png)
 
 - Scans all **Public IP Addresses** across the subscription
 - Detects unassociated Static IPs (charging ~$3.65/mo each)
@@ -130,9 +116,7 @@ Identify unused network resources.
 ### ⚓ AKS Cost Optimization
 Full Kubernetes cluster cost intelligence.
 
-<!-- SCREENSHOT: AKS page -->
-> 📸 **Screenshot placeholder** — `docs/screenshots/aks.png`
-> *Show: Efficiency score rings, recommendations list, cluster details expandable rows*
+![AKS Cost Optimization](docs/screenshots/aks.png)
 
 - **Efficiency Scores**: Overall · Cluster Efficiency · Node Utilization · Workload Rightsizing
 - **Smart Recommendations**:
@@ -147,9 +131,7 @@ Full Kubernetes cluster cost intelligence.
 ### 📊 Reports
 Full scan history with waste tracking over time.
 
-<!-- SCREENSHOT: Reports page -->
-> 📸 **Screenshot placeholder** — `docs/screenshots/reports.png`
-> *Show: Scan history table with dates, resources, waste found, waste cost*
+![Reports](docs/screenshots/reports.png)
 
 - Complete audit trail of every scan
 - Tracks resources scanned, waste items found, and waste cost per scan
@@ -160,9 +142,7 @@ Full scan history with waste tracking over time.
 ### 🔔 Alerts & Notifications
 Real-time alerts delivered directly in the dashboard.
 
-<!-- SCREENSHOT: Bell dropdown with alerts -->
-> 📸 **Screenshot placeholder** — `docs/screenshots/alerts.png`
-> *Show: Bell dropdown open with High/Medium severity alerts, unread count badge*
+![Alerts](docs/screenshots/alerts.png)
 
 - **Alert types**: Idle VM detected · Unattached disk · Cost threshold exceeded · AKS cluster stopped
 - Unread count badge on Bell icon
@@ -174,9 +154,7 @@ Real-time alerts delivered directly in the dashboard.
 ### ⚙️ Settings
 Manage your Azure connection directly from the dashboard — no code editing required.
 
-<!-- SCREENSHOT: Settings page -->
-> 📸 **Screenshot placeholder** — `docs/screenshots/settings.png`
-> *Show: Azure Connection form, Run Manual Scan button, Save Settings*
+![Settings](docs/screenshots/settings.png)
 
 - Update Tenant ID, Client ID, Client Secret, Subscription ID from the UI
 - Configure scan interval (6h / 12h / 24h / 48h)
