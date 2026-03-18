@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="<img src="https://raw.githubusercontent.com/HlaliMedAmine/azurelens-platform/main/docs/assets/logo.png" alt="AzureLens Logo" width="80" />" alt="AzureLens Logo" width="80" />
 
 # AzureLens
 
